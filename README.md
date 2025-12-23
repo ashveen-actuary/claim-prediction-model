@@ -1,6 +1,6 @@
 📈 Predictive Modeling for Policyholder Behavior
 
-This project aims to analyze and model insurance claim likelihood based on the behavioral and demographic attributes of policyholders using machine learning techniques. The project is built by a second-year actuarial science student as part of a public modeling portfolio.
+This project aims to analyze and model insurance claim likelihood based on the behavioral and demographic attributes of policyholders using machine learning techniques. The project is built by a final-year actuarial science student as part of a public modeling portfolio.
 
 🔍 Problem Statement
 
@@ -26,4 +26,5 @@ By understanding the likelihood of claims, insurers can improve pricing strategi
 - Model Training: We use Random Forest and Decision Trees for training the model and predicting claim likelihood.
 
 - Model Evaluation: The performance of the model is evaluated using a confusion matrix to understand the true positives, true negatives, false positives, and false negatives.
+
 
